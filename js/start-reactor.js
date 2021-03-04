@@ -164,7 +164,6 @@ startReactor = {
 
      },
     start() {
-
         startReactor.computerCombination = startReactor.createCombination()
         startReactor.computerCombinationPosition = 1
         startReactor.playerCombination = []
